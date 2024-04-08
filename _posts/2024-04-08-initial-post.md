@@ -11,4 +11,4 @@ This is a personal page for studies pouposes. So stay a while and navigate a lit
 
 ## Disclaimer
 
-I will try to populate this site with some utilities for me, and maybe it could be usefull for you too.
+I will try to populate this site with some utilities for me, and maybe it could be usefull for you too!
