@@ -25,8 +25,8 @@ I specialize in **vendor-neutral observability** — I believe your monitoring s
 
 | Company | Role | Period |
 |---------|------|--------|
-| **ConquestOne** | Senior SRE | Present |
-| **dLocal** | Senior SRE | May 2025 – Present |
+| **ConquestOne** | Senior SRE | May 2026 – Present |
+| **dLocal** | Senior SRE | May 2025 – Mar 2026 |
 | **Zup Innovation** | Senior SRE | May 2024 – May 2025 |
 | **Pagar.me (Stone Tech)** | SRE | May 2021 – May 2024 |
 | **Incodde** | SRE Consultant | Apr 2020 – May 2021 |
