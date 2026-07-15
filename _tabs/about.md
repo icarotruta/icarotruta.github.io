@@ -25,6 +25,7 @@ I specialize in **vendor-neutral observability** — I believe your monitoring s
 
 | Company | Role | Period |
 |---------|------|--------|
+| **ConquestOne** | Senior SRE | Present |
 | **dLocal** | Senior SRE | May 2025 – Present |
 | **Zup Innovation** | Senior SRE | May 2024 – May 2025 |
 | **Pagar.me (Stone Tech)** | SRE | May 2021 – May 2024 |
@@ -35,6 +36,7 @@ I specialize in **vendor-neutral observability** — I believe your monitoring s
 
 ## Highlights
 
+- 🏗️ **Built the observability foundation** for a Bayer project at ConquestOne
 - 🔄 **Migrated observability platforms** at dLocal, moving from New Relic to Coralogix with a 6:1 cost reduction
 - 📊 **Architected OpenTelemetry pipelines** to decouple monitoring from specific vendors
 - ☸️ **Managed 30+ Kubernetes clusters** across AWS, GCP, and Azure at Pagar.me
